@@ -8,7 +8,7 @@ Install ketik cmd (klik kanan run as administrator).
 
 1. pip install beautifulsoup4==4.11.1
 
-2.pip install requests==2.27.1
+2. pip install requests==2.27.1
 
 3. pip install colorama==0.4.4
 
