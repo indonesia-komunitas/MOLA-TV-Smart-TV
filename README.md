@@ -4,14 +4,21 @@ Mola TV Bundling Smart TV
 Edit Config Di Model Di config.json.
 Contoh : QA85QN900BKXXD (Default)
 
-Install ketik cmd (klik kanan run as administrator)
-pip install beautifulsoup4==4.11.1
-pip install requests==2.27.1
-pip install colorama==0.4.4
-pip install urllib3==1.26.9
-pip install httpx
-pip install requests
-pip install subprocess.run
+Install ketik cmd (klik kanan run as administrator).
+
+1. pip install beautifulsoup4==4.11.1
+
+2.pip install requests==2.27.1
+
+3. pip install colorama==0.4.4
+
+4. pip install urllib3==1.26.9
+
+5. pip install httpx
+
+6. pip install requests
+
+7. pip install subprocess.run
 
 Tutor Cara Buka Script
 py main.py
