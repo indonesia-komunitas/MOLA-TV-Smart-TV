@@ -34,3 +34,4 @@ contoh :
 2. Proxy Https : py proxy.py -p https
 
 Versi Python Python 3.8.10
+Cek Versi Python : python --version
