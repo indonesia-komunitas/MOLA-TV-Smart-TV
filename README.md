@@ -33,5 +33,6 @@ contoh :
 1. Proxy Http : py proxy.py -p http
 2. Proxy Https : py proxy.py -p https
 
-Versi Python Python 3.8.10
+Versi Python Yang Kami Gunakan Adalah Python 3.8.10
+
 Cek Versi Python : python --version
