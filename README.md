@@ -2,6 +2,7 @@
 Mola TV Bundling Smart TV
 
 - Edit Config Di Model Di config.json.
+
 Contoh : QA85QN900BKXXD (Default)
 
 - Install ketik cmd (klik kanan run as administrator).
