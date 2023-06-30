@@ -22,6 +22,7 @@ Contoh : QA85QN900BKXXD (Default)
 7. pip install subprocess.run
 
 - Tutor Cara Buka Script
+
 py main.py
 
 - Tutor Scrapping Proxy
