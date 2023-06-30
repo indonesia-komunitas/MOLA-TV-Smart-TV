@@ -26,7 +26,9 @@ Contoh : QA85QN900BKXXD (Default)
 py main.py
 
 - Tutor Scrapping Proxy
+
 py proxy.py -p (method)
+
 contoh : 
 1. Proxy Http : py proxy.py -p http
 2. Proxy Https : py proxy.py -p https
