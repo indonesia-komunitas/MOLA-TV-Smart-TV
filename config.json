@@ -1,0 +1,13 @@
+{
+	
+	"Application" : {
+		"Name" : "MolaTV",
+		"Version" : "2.2.6.10"
+	},
+	
+	"MolaTV" : {
+		"Password" : "Railgun123",
+		"Model" : "SP-LSP3BLAXXD"
+	}
+	
+}
