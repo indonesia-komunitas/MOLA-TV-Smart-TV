@@ -314,7 +314,7 @@ def run_thread(red, yellow, white):
 os.system('cls' if os.name == "nt" else 'clear')
 print(f"{cyan}\n  .-.            .;      .-.;;;;;;'          \n         .;|/:        .;'     (_)  .;.;.       .-. \n        .;   : .-.   .;  .-.       :  `;     .'    \n       .;    :;   ;'::  ;   :    .:'   ;;  .'      \n   .:'.;     :`;;'_;;_.-`:::'-'.-:._  ;;  ;        \n  (__.'      `.               (_/  `- `;.'\n")
 print(f'\n {white} Mola TV Mass create (proxy)')
-print(f'\n  1. {red}Create Unlimited Account Mola TV\n {white} 2. {red}Generate Code Activation{white}\n')
+print(f'\n  1. {red}Create Unlimited Account Mola TV\n {white} 2. {red}Generate Code Activation{white}\n Credit Source Asli By : Agatha Sangkara\n')
 
 opsi = input(f'  Choose : ')
 if opsi == "1":
